@@ -9,8 +9,10 @@ We generate them for the following platforms, though they may or may not work at
 * Windows x64
 * Fedora 29 x64
 * Ubuntu 18.04 x64
-* RHEL 7 z64 (because YOLO)
+* RHEL 7 z64 (because why not)
 
 And additonally, we also produce snapfiles of the game for experimental use that can be used on many more platforms.
 
 You can read more on our [Confluence](https://marathonspeedrun.atlassian.net/wiki/spaces/AO/overview), and play with these builds on our [Bamboo](https://bamboo.marathonruns.net). Additonally, if you encounter any bugs with our builds, put them on our [JIRA](https://jira.marathonruns.net).
+
+These will eventually be used as part of [Mirata].
