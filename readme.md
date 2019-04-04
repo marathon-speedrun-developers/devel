@@ -5,7 +5,7 @@ devel.marathonruns.net is the official, certified fresh portal of the Marathon S
 
 ## What do we do?
 
-We're responsble for [mirata], the Marathon scenario setup and management wizard, [mrupload] and [mrupload classic], the system used for uploading runs and their metadata to the leaderboardm, and the unofficial [nightly] builds of Aleph One.
+We're responsble for [mirata](/mirata), the Marathon scenario setup and management wizard, [mrupload](/mrupload) and [mrupload classic](/mruploadclassic), the system used for uploading runs and their metadata to the leaderboardm, and the unofficial [nightly](/nightly) builds of Aleph One.
 
 ## Who are we?
 
