@@ -3,6 +3,14 @@
 
 devel.marathonruns.net is the official, certified fresh portal of the Marathon Speedrun Developers.
 
-# What do we do?
+## What do we do?
 
-We're responsble for [mirata], the Marathon scenario setup and management wizard, [mrupload], the program used for uploading runs and their metadata to the leaderboardm, and the unofficial [nightly] builds of Aleph One.
+We're responsble for [mirata], the Marathon scenario setup and management wizard, [mrupload] and [mrupload classic], the system used for uploading runs and their metadata to the leaderboardm, and the unofficial [nightly] builds of Aleph One.
+
+## Who are we?
+
+### tbcr: Surpreme Leader
+basic bio here
+
+### hyp3rdriv3: Sysadmin
+hyp3rdriv3 is a 22 year old human male who lives in the DC metro. He is responsible for maintaining our Atlassian products, [Bamboo](https://bamboo.marathonruns.net), [JIRA](https://jira.marathonruns.net), and [Confluence](https://marathonspeedrun.atlassian.net/wiki/spaces/MRUNS/overview), and he is the only one batshit crazy enough to whack them into submission when they act up.
