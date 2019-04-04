@@ -15,4 +15,4 @@ And additonally, we also produce snapfiles of the game for experimental use that
 
 You can read more on our [Confluence](https://marathonspeedrun.atlassian.net/wiki/spaces/AO/overview), and play with these builds on our [Bamboo](https://bamboo.marathonruns.net). Additonally, if you encounter any bugs with our builds, put them on our [JIRA](https://jira.marathonruns.net).
 
-These will eventually be used as part of [Mirata].
+These will eventually be used as part of [Mirata](https://devel.marathonruns.net/mirata).
